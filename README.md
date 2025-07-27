@@ -17,9 +17,9 @@ PAQS is designed to assess the quality of pedestrian access to transit through t
 - `README.md`  
   This file — basic overview and usage instructions.
 
-## 🛠️ How to Use
-1. Open `PAQS_Calculator.xlsx`.
-2. Enter the relevant input data (described in the 'Instructions' tab).
+## 🛠️ How to Use These Tools
+1. Read the Methodology section of the thesis for an overview of how the metric works and how it is calculated.
+2. For each station you choose to analyze, open **ONE** 
 3. The PAQS will be calculated automatically using the embedded formulas.
 4. Refer to `Methodology_Summary.pdf` for an explanation of the variables and scoring logic.
 
