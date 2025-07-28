@@ -14,9 +14,6 @@ PAQS is designed to assess the quality of pedestrian access to transit through t
 - `var_descriptions.xlsx`  
   Equations and variables used to calculate PAQS. The embedded equations in the above spreadsheets automatically perform the calculations shown in this spreadsheet.
   
-- `Methodology_Summary.pdf`  
-  A brief overview of the metric’s development, scoring system, and validation.
-
 - `README.md`  
   This file — basic overview and usage instructions.
 
