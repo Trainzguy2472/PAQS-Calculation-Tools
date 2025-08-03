@@ -27,7 +27,7 @@ PAQS is designed to assess the quality of pedestrian access to transit through t
 
 ## 📖 Citation
 If you use or adapt this tool, please cite:
-> Matthew Cheng. (2025). *Pedestrian Access Quality Score: A New Metric for Evaluating Urban Pedestrian Conditions* (Master’s Thesis, University of California, Berkeley). [GitHub Repository URL]
+> Matthew Cheng. (2025). *Holistically Evaluating Pedestrian Access Quality in the Transit Station Polygon Vicinity* (Master’s Thesis, University of California, Berkeley). https://github.com/Trainzguy2472/PAQS-Calculation-Tools
 
 ## 🧾 License
 This project is made available under the [MIT License](LICENSE), allowing free use with attribution.
