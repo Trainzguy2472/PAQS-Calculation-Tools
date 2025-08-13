@@ -13,7 +13,10 @@ PAQS is designed to assess the quality of pedestrian access to transit through t
   
 - `var_descriptions.xlsx`  
   Equations and variables used to calculate PAQS. The embedded equations in the above spreadsheets automatically perform the calculations shown in this spreadsheet.
-  
+
+- `questionnaire_v2.pdf`  
+  Public survey that was distributed as part of this study to inform the weighting of 11 percieved safety attributes used in the PAQS metric.
+
 - `README.md`  
   This file — basic overview and usage instructions.
 
